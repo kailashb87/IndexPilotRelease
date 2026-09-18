@@ -52,5 +52,3 @@ Because IndexPilot is an independent software tool, please note the following se
 ## 💻 System Requirements
 * **Operating System:** Windows 10 or Windows 11 (64-bit)
 * **Dependencies:** Microsoft Excel (for `.xlsx` processing features)
-
-**Full Changelog**: https://github.com/kailashb87/IndexPilot/commits/IndexPilotv1.0
